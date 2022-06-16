@@ -1,2 +1,4 @@
 .snakemake
 .ipynb_checkpoints
+Snakefile
+environment.readable.yml
