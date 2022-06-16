@@ -150,4 +150,3 @@ dependencies:
   - zipp=3.8.0=pyhd8ed1ab_0
   - zlib=1.2.12=ha287fd2_1
   - zstd=1.5.2=hd705a24_1
-prefix: /Users/violetballard/mambaforge/envs/mothership_dice
